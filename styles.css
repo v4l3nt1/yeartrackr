@@ -26,8 +26,10 @@ h1 {
     margin : 0;
 }
 
-footer {
+footer, a {
     order : 1;
+    color : rgba(0,0,0,0.4);
+    font-weight:bold;
 }
 
 
